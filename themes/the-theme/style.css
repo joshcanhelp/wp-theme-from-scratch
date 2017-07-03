@@ -1,0 +1,28 @@
+/*
+
+The style.css file in WordPress is used as a source of information for wp-admin and the WP.org theme repo.
+This file will not contain styling information, only the metadata needed to load the theme.
+
+A few extra things to note:
+
+- "Text Domain" below should match the theme directory and is used for translation
+- "Tags" are not required for the theme but will be displayed in wp-admin
+- Information on the fields below is here - https://developer.wordpress.org/themes/basics/main-stylesheet-style-css/
+- A "Template" field can be added to make this theme a child theme - https://developer.wordpress.org/themes/advanced-topics/child-themes/
+
+*/
+
+/*
+
+Theme Name: The Theme
+Theme URI: https://github.com/joshcanhelp/wp-theme-from-scratch/tree/master/themes/the-theme
+Author: Josh Can Help
+Author URI: http://www.joshcanhelp.com/
+Description: Theme component for the joshcanhelp/wp-theme-from-scratch repo
+Version: 0.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: the-theme
+Tags: accessibility-ready, custom-colors, custom-header, custom-menu, custom-logo, editor-style, featured-images, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready
+
+*/
