@@ -29,7 +29,7 @@ Where it makes sense, I'll call out code and techniques that are more my opinion
 
 ## Getting Started
 
-This tutorial starts with a working copy of the latest version of WordPress. Once you have that up and running and can log into the admin, head to the [first commit](https://github.com/joshcanhelp/wp-theme-from-scratch/commit/037d299b1a7e69c8bdb9fa9c561c930faf20a148) if you're using git or the [second commit](https://github.com/joshcanhelp/wp-theme-from-scratch/commit/bb12822ec302b7d9016ede2401a48878d28ca1a6) if not. Read the commit message, then walk through the code changes. The next step not-skipped step will be linked in the comments at the bottom. 
+This tutorial starts with a working copy of the latest version of WordPress. Once you have that up and running and can log into the admin, head to the [first commit](https://github.com/joshcanhelp/wp-theme-from-scratch/commit/c264d8bcb4a9ffd6d1f02bd36a461f9ef90e7abe) if you're using git or the [second commit](https://github.com/joshcanhelp/wp-theme-from-scratch/commit/07115e206785d49ae60c3816807e836f709946e0) if not. Read the commit message, then walk through the code changes. The next step not-skipped step will be linked in the comments at the bottom. 
 
 Here's how I created the first commit:
 
